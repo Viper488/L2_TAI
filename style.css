@@ -9,3 +9,6 @@ body {
 .center {
   text-align: center;
 }
+.navbar {
+    background-color: lightyellow;
+}
